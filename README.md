@@ -1,7 +1,7 @@
 # DCE_MRI_Segmentation
    Segmentation toolbox developed to segment tissues from the lower abdominal area imaged by DCE-MRI.
 
-![GUI_GUIDE](https://github.com/banterlin/DCE_MRI_Segmentation/GUI_GUIDE.jpg?raw=true)
+![GUI_GUIDE](https://github.com/banterlin/DCE_MRI_Segmentation/blob/main/GUI_GUIDE.jpg?raw=true)
 
 For each step, check the Status window to make sure status not BUSY. The status window will update in real time whenever the algorithm is processing.
 Algorithm parameters are set by default in MAIN.m , run MAIN, wait for the interface to load. These parameters can be updated in the GUI later on.
